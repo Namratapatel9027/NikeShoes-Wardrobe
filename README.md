@@ -25,11 +25,10 @@
 <h1 align="center">Screenshots</h1>
 
 <!-- Add screenshots of your web application -->
-![Screen Shot](images/SW1.png)
-![Screen Shot](images/SW2.png)
-![Screen Shot](images/SW3.png)
-![Screen Shot](images/SW4.png)
-![Screen Shot](images/SW5.png)
+![Screen Shot](image/SW!.png)
+![Screen Shot](image/SW2.png)
+![Screen Shot](image/SW3.png)
+![Screen Shot](image/SW4.png)
 
 Here's why:
 
